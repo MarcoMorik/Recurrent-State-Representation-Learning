@@ -1,0 +1,7 @@
+logs/
+maze_data/
+plots/
+*.pyc
+*.npz
+*.png
+tests/
